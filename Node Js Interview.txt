@@ -23,12 +23,12 @@
 23. Explain the use of the timers module in Node Js.
 24. What is the difference between setImmediate() and process.nextTick() methods?
 25. What is the difference between setTimeout() and setImmediate() methods?
-26. What is the difference between spawn() and fork() methods?
+26. What is the difference between spawn(), exec() and fork() methods?
 27. Explain the use of the passport module in Node Js.
 28. What is fork in Node Js?
 29. What are the three methods to avoid callback hell?
 30. What is body-parser in Node Js?
-31. What is CORS in Node Js?
+31. What is CORS in Node Js and how to enable it? 
 32. Explain the tls module in Node Js.
 33. What is a cluster in Node Js?
 34. How to manage sessions in Node Js?
@@ -39,3 +39,14 @@
 39. How to read command line arguments in Node Js?
 40. What are child processes in Node Js?
 41. Session vs cookies
+42. What are process objects in Node.js?
+43. What is an EventEmitter in Node.js? Give a real use case.
+44. How does clustering work in Node.js?
+45. Explain how you can achieve multithreading in Node.js.
+46. What is the role of libuv in Node.js?
+47. How do you handle uncaught exceptions in Node.js?
+48. Explain difference between process.env and dotenv package.
+49. What are worker threads in Node.js?
+50. How does garbage collection work in Node.js?
+51. How do you monitor and debug performance issues in Node.js apps?
+52. What is the difference between populate and aggregate ?

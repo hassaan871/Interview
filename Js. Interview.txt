@@ -1,6 +1,7 @@
 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
 2. What is the difference between map and filter, reduce ?
 3. What is the difference between map() and forEach() ?
+4. What is the difference between forEach and forof loop & what are the different types of loops in js?
 5. What are the differences between call(), apply() and bind() ?
 6. List out some key features of ES6 ?
 7. What’s the spread operator in javascript ?
@@ -17,7 +18,7 @@
 18. What is destructuring ?
 19. What is setTimeOut in javascript ?
 20. What is setInterval in javascript ?
-21. What are Promises in javascript ?
+21. What are Promises in javascript and how can we create our own promises?
 22. What is a closure ?
 23. What are callbacks in javascript ?
 24. What are Higher Order Functions in javascript ?
@@ -26,12 +27,12 @@
 27. What is the differences let, var and const ?
 28. What are limitations of arrow functions?
 29. What is the difference between Shallow copy and deep copy ?
-30. What is event bubbling
+30. What is event bubbling ?
 31. What is event capturing ?
 32. What is 'this' in javascript and How it behaves in various scenarios ?
 33. How do you optimize the performance of application ?
 34. What is meant by debouncing and throttling?
-35. for each, map, for loop and async await in them ?
+35. how does async await in for each, map & for loop ?
 36. this in arrow function?
 37. functioned scope vs block scope?
 38. set and symbol datatype?
