@@ -41,4 +41,5 @@
 41. Event Loop & call Stack ?
 42. What is arguments in Javascript ?
 43. What is promise chainging ?
-
+44. What is method chaining ( like .map().filter().reduce() ) and in what order they will execute?
+45. What is the difference between TypeError and ReferenceError and what are different types of errors?
