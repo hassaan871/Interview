@@ -1,0 +1,2 @@
+Find all employees who earn more than the average salary of their department.
+SQL Query to Return customers who have at least one order.

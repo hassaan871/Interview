@@ -43,3 +43,6 @@
 43. What is promise chainging ?
 44. What is method chaining ( like .map().filter().reduce() ) and in what order they will execute?
 45. What is the difference between TypeError and ReferenceError and what are different types of errors?
+46. What is callback Hell ?
+47. What is toString() method ?
+48. What is the difference between js Object and JSON ?
