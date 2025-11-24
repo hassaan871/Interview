@@ -46,3 +46,10 @@
 46. What is callback Hell ?
 47. What is toString() method ?
 48. What is the difference between js Object and JSON ?
+49. Microtask Queue vs Macrotask Queue ?
+50. Currying in JavaScript ?
+51. Memoization ?
+52. Prototype Inheritance vs Classical Inheritance ?
+53. What is a Generator function ?
+54. What is Fetch API ?
+55. What is CORS ?
