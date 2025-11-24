@@ -53,3 +53,5 @@
 53. What is a Generator function ?
 54. What is Fetch API ?
 55. What is CORS ?
+
+https://chatgpt.com/share/6923fd7b-a3fc-8013-9548-28d1857f2ecb
